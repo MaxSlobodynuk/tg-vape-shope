@@ -13,11 +13,11 @@ html.lang_rtl {
 
 body,
 html.theme_dark body.bg_light {
-  --text-color: #000;
+  --text-color: #fff;
   --second-text-color: #7d7f81;
   --accent-btn-color: #2481cc;
   --accent-color-hover: #1a8ad5;
-  --body-bg: #000;
+  --body-bg: #fff;
   --box-bg: #1e1e1e;
   --box-bg-blured: rgba(255, 255, 255, 0.84);
   --tme-logo-color: #363b40;
@@ -37,7 +37,7 @@ html.theme_dark body,
 html body.bg_dark {
   --text-color: #fff;
   --accent-btn-color: #1c93e3;
-  --body-bg: #000;
+  --body-bg: #fff;
   --box-bg: #1e1e1e;
   --box-bg-blured: rgba(34, 34, 34, 0.84);
   --tme-logo-color: #fff;
@@ -51,7 +51,6 @@ html body.bg_dark {
 
   --dl-link-icon: url("data:image/svg+xml,%3Csvg%20height%3D%2214%22%20viewBox%3D%220%200%2014%2014%22%20width%3D%2214%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Cpath%20d%3D%22m4.4%2010.3%203.3-3.5c0%200%200%200%200%200l-3.3-3.5%22%20fill%3D%22none%22%20stroke%3D%22%2330aafd%22%20stroke-linecap%3D%22round%22%20stroke-width%3D%221.05%22%2F%3E%3C%2Fsvg%3E");
 }
-
 body {
   background: #000 !important;
 }
